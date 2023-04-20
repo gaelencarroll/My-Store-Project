@@ -1,0 +1,4 @@
+.nav-btns-section{
+    display: flex;
+    flex-direction: row;
+}

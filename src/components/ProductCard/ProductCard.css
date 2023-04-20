@@ -1,0 +1,42 @@
+.product-card{
+    width: 400px;
+}
+
+.product-photo-section{
+    position: relative;
+}
+
+.product-photo{
+    height: 300px;
+    width: 400px;
+    background-size: contain;
+    background-position: center;
+    margin: 0;
+    border-radius: 10px;
+    position: block;
+}
+
+.product-description-section{
+    text-align: left;
+}
+
+.product-title-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.product-description-paragraph{
+    font-size: 0.75em;
+    margin: 0;
+}
+
+.rating-section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 0.8em;
+}
+

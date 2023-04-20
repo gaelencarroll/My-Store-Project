@@ -1,0 +1,27 @@
+.main-homepage{
+    background-image: url('/images/homepage-background-2.jpg');
+    background-size: cover;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .homepage-text-section{
+    width: 50%;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .main-title{
+    color:  hsl(140, 50%, 20%);
+    font-size: 4rem;
+    margin: 0;
+  }
+  
+  .main-subtitle{
+    color: rgb(45, 30, 22);
+    font-weight: normal;
+  }

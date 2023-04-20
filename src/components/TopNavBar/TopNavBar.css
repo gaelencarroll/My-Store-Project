@@ -1,0 +1,24 @@
+.whole-nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(140, 50%, 20%);
+    color: white;
+}
+
+.number-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.promo-section{
+    display: flex;
+    flex-direction: row;
+}
+
+.lang-section{
+    display: flex;
+    flex-direction: row;
+}
+
